@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.header{
+    background-color:pink;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 70px;
+  
+}
+.header h1{
+    font-size: 25px;
+}
+.header ul{
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    list-style: none;
+}
+.main-parent img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+    
+
+    border-radius: 50%;  
+
+
+}
+.main-left{
+    width: 500px;
+}
+.main-parent {
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: 50px;
+
+}
+.main-left button{
+    background-color: burlywood;
+    font-size: 17px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px 10px;
+   
+    
+}
+.footer {
+
+    background-color: pink;
+    font-size: 15px;
+    text-align: center;
+    padding: 25px ;
+    
+}
+.footer i{
+    font-size: 20px;
+}

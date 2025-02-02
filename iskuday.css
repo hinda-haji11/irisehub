@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+*{
+    margin: 0PX;
+    padding: 0px;
+    font-family: "DM-Sans";
+}
+.plog-parent img{
+    width: 200px;
+
+}
+.plog-parent{
+    display: flex;
+    gap: 40px;
+    padding: 10px;
+    border-top: 1px solid gray;
+    margin: 10px 100px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+   
+}
+.footer h1{
+    font-size: 60px;
+    
+}
+ 

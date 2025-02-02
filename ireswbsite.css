@@ -1,0 +1,56 @@
+*{
+    margin: none;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+
+}
+.header img{
+    width: 200px;
+    justify-content: 20px 50px;
+}
+
+.header ul{
+    display: flex;
+    gap: 60px;
+    font-size: 20px;
+    list-style: none;
+    margin-top: 15px;
+
+}
+
+.main-parent{
+    background-color: orangered;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+    color: white;
+}
+.main-left{
+    width: 400px;
+    
+}
+.main-right{
+    width: 400px;
+    
+}
+.main-right iframe{
+    border-top: 20px;
+    width: 450px;
+    height: 300px;
+    border-top: 30px solid white;
+    border-top-left-radius: 2opx;
+    border-top-right-radius: 20px;
+    
+}
+.main-left h1{
+    font-weight: bold;
+}
+.main-left a{
+    color: white;
+    font-weight: bold;
+}

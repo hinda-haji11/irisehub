@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+
+}
+.main-parent{
+    display: flex;
+    
+}
+
+.main-left img{
+    
+        width: 400px;
+        padding-right: 50px;
+        
+    }
+    .main-center img{
+        width: 400px;
+        padding-right: 45px;
+    }
+    .main-right img{
+        width: 400px;
+    }
+
+.main-left p{
+    margin-right: 10px;
+    font-weight:100;
+    width: 380px
+} 
+.main-center p{
+    margin-right: 10px;
+    
+    font-weight: 20px;
+    width: 380px
+}
+.main-right p{
+    
+    font-weight: 20px;
+    width: 380px
+}
+.main-parent a{
+    font-weight: bold;
+    
+    
+}
+.main-parent h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
