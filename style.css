@@ -6,13 +6,15 @@
     display: flex;
     justify-content: space-between;
     padding: 20px 50px;
-    background-color: black;
+    background-color: orangered;
+    
     color: white;
 
 }
 .header img{
     width: 200px;
     justify-content: 20px 50px;
+    background-color: orange;
 }
 
 .header ul{
